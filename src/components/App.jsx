@@ -94,7 +94,8 @@ export class App extends Component {
           </>
         ) : (
           <p>
-            No contacts yet. <br /> You`re alone :c
+            The phone book is currently empty. <br /> It's time to create new
+            contacts!
           </p>
         )}
       </Container>
